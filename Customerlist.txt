@@ -1,0 +1,10 @@
+Lucy,John,abc@uab.edu,123-456-789
+Jaxob,Alice,bcd@uab.edu,234-567-890
+Bruce,Lee,cde@uab.edu,234-678-789
+Mike,Jobs,dgf@uab.edu,234-556-789
+Chris,Paul,chris@uab.edu,234-678-890
+Jack,Ma,abcd@uab.edu,123-345-789
+LB,James,abc@uab.edu,123-345-567
+Elon,Mask,elon@uab.edu,123-345-567
+Jame,Harden,jame@uab.edu,234-567-908
+Blazer,UAB,blazerid@uab.edu,205-934-123

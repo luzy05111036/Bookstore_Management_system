@@ -1,0 +1,9 @@
+Lee,Ballad for Sophie
+John,The Last Thing
+Lee,Don Quixote
+Jobs,The Little Prince
+Lee,ABC
+Mask,Don Quixote
+Mask,Ballad for Sophie
+Mask,Afterparties:stories
+Paul,ABC

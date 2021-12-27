@@ -1,0 +1,13 @@
+Don Quixote,Miguel Cervantes,500,abc,2
+The Last Thing,Laura Dave,600,Simon & Schuster,0
+Ballad for Sophie,Filipe Melo,500,Random House Inc,0
+Afterparties:stories,Anthony John,500,HarperCollinsPublishers,2
+The Little Prince,Antoine Saint-Exupéry,500,Reynal & Hitchcock,1
+ABC, Pual Mike,500,abc,3
+ABC,pp,366,ert,3
+ABC,bb,23,e,3
+ABC,bb,2,w,3
+a,q,33,e,1
+a,q,33,e,1
+War and Peace, Lalf Tuolstai,400,abc,2
+Bear, Tylor Swfit,300,bbc,2
